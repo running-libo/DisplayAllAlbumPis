@@ -1,2 +1,4 @@
 # DisplayAllAlbumPis
 仿照微信快速加载手机所有相册图片
+
+分页加载手机相册数据，操作cursor获取数据，recyclerView列表展示
